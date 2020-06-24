@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    width:650px;
+}
+#login{
+    background-image: url(../img/school.jpg);
+    background-size: 102%;
+    background-repeat: no-repeat;
+}
+#reset{
+    background-image: url(../img/timg.jpg);
+    background-size: 102%;
+    background-repeat: no-repeat;
+}
+.in{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    left: 1170px;
+    top: 350px;
+    margin-bottom: 55px;
+}
+#choose{
+    position: absolute;
+    left: 1170px;
+    top: 460px;
+}
+
+#loginbutton{
+    width: 70px;
+    height: 30px;
+    position: absolute;
+    left: 1170px;
+    top:530px;
+    color:white;
+    font-weight: bold;
+    background-color: skyblue;
+    border-radius: 10px;
+    border: none;
+}
